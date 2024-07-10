@@ -1,0 +1,27 @@
+migration_tables,
+employees_5,
+
+
+
+
+employees_4
+
+
+require_once __DIR__ . '/e1.php';
+use Databases\QueryMigrate;
+use TestFolder\$name;
+use TestFolder\file_2;
+
+$obj_1 = new file_1();
+$obj_2 = new file_2();
+$obj_1->index("1");
+$obj_2->index("2");use TestFolder\$$class_name;
+
+$obj_1 = new file_1();
+$obj_1->index("1");use TestFolder\$$class_name;
+
+$obj_1 = new file_1();
+$obj_1->index("1");use TestFolder\coder;
+
+$obj_1 = new file_1();
+$obj_1->index("1");

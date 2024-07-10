@@ -1,0 +1,15 @@
+{
+    "name": "ridip/cms",
+    "description": "A simple project",
+    "require": {
+        
+    },
+    "autoload": {
+        "psr-4": {
+            "Config\\": "Config/",
+            "TestFolder\\": "TestFolder/",
+            "Databases\\":"Databases/",
+            "Migrations\\":"Databases/Migrations/"
+        }
+    }
+}
